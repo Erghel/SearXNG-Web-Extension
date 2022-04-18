@@ -1,0 +1,1 @@
+# SearXNG-Web-Exstension
