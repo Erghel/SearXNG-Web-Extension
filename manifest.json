@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "SearXNG - Privacy-search engine",
+  "name": "SearXNG — Privacy Search Engine",
   "version": "1.3",
   "author": "Erghel",
   "default_locale": "en",
@@ -19,7 +19,7 @@
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "SearXNG",
-      "keyword": "SearXNG",
+      "keyword": "@searxng, @searx",
       "search_url": "https://searx.be/search?q={searchTerms}",
       "favicon_url": "searxng128.webp",
       "suggest_url": "https://searx.be/search?q={searchTerms}",
