@@ -19,7 +19,7 @@
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "SearXNG",
-      "keyword": "@searxng, @searx",
+      "keyword": "@searxng, @searx, @sx",
       "search_url": "https://searx.be/search?q={searchTerms}",
       "favicon_url": "searxng128.webp",
       "suggest_url": "https://searx.be/search?q={searchTerms}",
