@@ -3,7 +3,7 @@
 
 SearXNG is a fork of <a href="https://github.com/searx/searx"><b>SearX</b></a>
 
-<a href="https://github.com/searxng/searxng"><b>SearXNG</b></a>
+<a href="https://github.com/searxng/searxng"><b>SearXNG</b></a> - Original repository on GitHub
 
 # Contributors
 [**Rodion Borisov**](https://github.com/vintprox) 
