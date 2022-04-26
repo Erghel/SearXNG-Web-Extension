@@ -22,7 +22,7 @@
       "keyword": "@searxng, @searx, @sx",
       "search_url": "https://searx.be/search?q={searchTerms}",
       "favicon_url": "searxng128.webp",
-      "suggest_url": "https://searx.be/search?q={searchTerms}",
+      "suggest_url": "https://searx.be/autocompleter?q={searchTerms}",
       "is_default": true
     }
   }
