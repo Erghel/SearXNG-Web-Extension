@@ -22,6 +22,6 @@ If you want use **SearXNG** as support to main search engine do this:
 - use keywords like ```@searxng, @searx, @sx``` if you want use **SearXNG** when you make request
 
 # Contributors
-[**Rodion Borisov**](https://github.com/vintprox) 
+[**Rodion Borisov**](https://github.com/vintprox) - found ```"suggestion_url"``` and etc
 
-[**Ivan Muzyka**](https://github.com/SeryiBaran)
+[**Ivan Muzyka**](https://github.com/SeryiBaran) - found icons and etc
