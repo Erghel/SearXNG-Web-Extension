@@ -17,7 +17,7 @@ it means that your browser start use second link when you make search request.
 # Tricks
 If you want use **SearXNG** as support to main search engine do this:
 - add this addon into your browser 
-- agree when browser ask you "Add it extension?"
+- agree when browser ask you "Add this extension?"
 - disagree when browser ask "Do you want change your main search engine?" 
 - use keywords like ```@searxng, @searx, @sx``` if you want use **SearXNG** when you make request
 
