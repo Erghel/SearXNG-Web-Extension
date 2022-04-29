@@ -14,7 +14,7 @@ https://example.com/search?q={searchTerms} --> https://searx.be/search?q={search
 ```
 it means that your browser start use second link when you make search request.
 
-# Trciks 
+# Tricks
 If you want use **SearXNG** as support to main search engine do this:
 - add this addon into your browser 
 - agree when browser ask you "Add it extension?"
