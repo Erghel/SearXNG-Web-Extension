@@ -9,9 +9,30 @@ SearXNG is a fork of <a href="https://github.com/searx/searx"><b>SearX</b></a>
 Extension use ``manifest.json`` settings which change your main search engine. 
 
 Example: 
+
+(**Default settings**)
+```json
+{
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "search_url": "https://example.com/search?q={searchTerms}"
+     }
+   }
+ }
+
 ```
-https://example.com/search?q={searchTerms} --> https://searx.be/search?q={searchTerms}
+
+(**With addon**)
+```json
+{
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "search_url": "https://example.com/search?q={searchTerms}"
+     }
+   }
+ }
 ```
+
 it means that your browser starts to use second link when you make search request.
 
 # Tricks
