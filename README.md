@@ -1,4 +1,4 @@
-# SearXNG-Web-Exstension (Unofficial)
+# SearXNG-Web-Extension (Unofficial)
 **SearXNG** is a free Internet metasearch engine that aggregates results from various search services and databases. Users are not tracked or profiled.
 
 [**SearXNG**](https://github.com/searxng/searxng) is a fork of [**SearX**](https://github.com/searx/searx).
