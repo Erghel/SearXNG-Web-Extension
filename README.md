@@ -36,6 +36,7 @@ It means that your browser starts to use second link when you make search reques
 
 # Tricks
 If you want use **SearXNG** as support to main search engine do this:
+- fork this repository and change the search URL according to your domain
 - add this addon into your browser
 - agree when browser shows you "Add this extension?"
 - disagree when browser shows "Do you want change your main search engine?"
