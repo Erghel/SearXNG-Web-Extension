@@ -3,7 +3,8 @@
 
 [**SearXNG**](https://github.com/searxng/searxng) is a fork of [**SearX**](https://github.com/searx/searx).
 
-[**Original SearXNG repository on GitHub**](https://github.com/searxng/searxng)
+[**Original SearXNG repository on GitHub**](https://github.com/searxng/searxng).
+
 [**SearXNG instances**](https://searx.space/) - you can use other instances of the SearXNG search engine (for this you will need to fork the repository and replace the link for the search query in `manifest.json`).
 
 # How does it work?
