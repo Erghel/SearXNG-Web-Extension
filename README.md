@@ -42,10 +42,10 @@ It means that your browser starts to use second link when you make search reques
 
 # Tricks with extension
 If you want use **SearXNG** as support to main search engine do this:
-- add this addon into your browser
-- agree when browser shows you "Add this extension?"
-- disagree when browser shows "Do you want change your main search engine?"
-- use keywords like `@searxng, @searx, @sx` if you want use **SearXNG** when you make request
+1. add this addon into your browser
+2. agree when browser shows you "Add this extension?"
+3. disagree when browser shows "Do you want change your main search engine?"
+4. use keywords like `@searxng, @searx, @sx` if you want use **SearXNG** when you make request
 
 # Contributors
 [**Erghel**](https://github.com/Erghel) - main contributor.
