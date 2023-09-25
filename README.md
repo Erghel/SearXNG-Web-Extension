@@ -42,7 +42,6 @@ It means that your browser starts to use second link when you make search reques
 
 # Tricks with extension
 If you want use **SearXNG** as support to main search engine do this:
-- fork this repository and change the search URL according to your domain
 - add this addon into your browser
 - agree when browser shows you "Add this extension?"
 - disagree when browser shows "Do you want change your main search engine?"
@@ -50,5 +49,7 @@ If you want use **SearXNG** as support to main search engine do this:
 
 # Contributors
 [**Erghel**](https://github.com/Erghel) - main contributor.
+
 [**Rodion Borisov**](https://github.com/vintprox) - found `"suggestion_url"` and etc.  
+
 [**Ivan Muzyka**](https://github.com/SeryiBaran) - found icons and etc.
