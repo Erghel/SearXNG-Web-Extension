@@ -1,7 +1,7 @@
 # SearXNG-Web-Extension (Unofficial)
-<p align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/searxng-search"><img src="https://img.shields.io/amo/users/searxng-search?style=flat-square" alt="Badge" /></a>
-</p>
+[<img src="./firefox-add-ons.png" title="Firefox Add-ons" width="auto" height="47" />](https://addons.mozilla.org/en-US/firefox/addon/searxng-search) <p><a href=""><img src="https://img.shields.io/amo/users/searxng-search?style=flat-square" alt="Badge" /></a></p>
+
+# SearXNG
 
 **SearXNG** is a free Internet metasearch engine that aggregates results from various search services and databases. Users are not tracked or profiled.
 
@@ -11,7 +11,7 @@
 
 [**SearXNG instances**](https://searx.space/) - you can use other instances of the SearXNG search engine (for this you will need to fork the repository and replace the link for the search query in `manifest.json`).
 
-# How does it work?
+# How does extension work?
 Extension use `manifest.json` settings which change your main search engine.
 
 Example:
@@ -40,7 +40,7 @@ Example:
 
 It means that your browser starts to use second link when you make search request.
 
-# Tricks
+# Tricks with extension
 If you want use **SearXNG** as support to main search engine do this:
 - fork this repository and change the search URL according to your domain
 - add this addon into your browser
