@@ -1,4 +1,8 @@
 # SearXNG-Web-Extension (Unofficial)
+<p align="center">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/searxng-search"><img src="https://img.shields.io/amo/users/searxng-search?style=flat-square" alt="Badge" /></a>
+</p>
+
 **SearXNG** is a free Internet metasearch engine that aggregates results from various search services and databases. Users are not tracked or profiled.
 
 [**SearXNG**](https://github.com/searxng/searxng) is a fork of [**SearX**](https://github.com/searx/searx).
